@@ -1,0 +1,21 @@
+pwd
+mkdir
+hostname
+cd~
+cd ../..
+ls
+rmdir   rm
+pushd
+popd
+New-Item
+cp     cp -recurse
+mv  (rename)
+more  (read file)
+cat
+exit
+
+forfiles
+runas
+attrib
+icacls
+
